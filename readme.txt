@@ -1,4 +1,4 @@
-Hello Kimi, I am new to web development, I want you to build me a portfolio website using virtual studio code as my IDE. use HTML and Vanilla CSS,
+Hello Chatgpt, I am new to web development, I want you to build me a portfolio website using virtual studio code as my IDE. use HTML and Vanilla CSS,
 
 -the site should contain a menu bar which will be sticky.
 
